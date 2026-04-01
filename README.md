@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Jawad+Shams;Cybersecurity+Engineer+%7C+Penetration+Tester+%7C+CEH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Jawad+Shams;Cybersecurity+Engineer+%7C+Penetration+Tester+%7C+CEH" alt="Typing SVG" />
 </p>
 
 <p align="center">
