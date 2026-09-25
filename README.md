@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Computer Hacking Forensinc Investigator?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Offensive_Security-00FF41?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VAPT-Professional-blueviolet?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
